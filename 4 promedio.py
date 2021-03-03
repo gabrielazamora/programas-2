@@ -22,9 +22,9 @@ salida
 
 
 # Autor:Fabiola Cruz González
-c1=float(input())
-c2=float(input())
-c3=float(input())
-c4=float(input())
+c1=float(input('numero 1 '))
+c2=float(input('numero 2 '))
+c3=float(input('numero 3 '))
+c4=float(input('numero 4 '))
 promedio = (c1+c2+c3+c4)/4
-print (promedio)
+print ('el promedio es ',promedio)
