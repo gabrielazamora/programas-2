@@ -28,4 +28,4 @@ c3=float(input('numero 3 '))
 c4=float(input('numero 4 '))
 promedio = (c1+c2+c3+c4)/4
 print ('el promedio es ')
-print (promedio)
+print (promedio, ' $ ')
