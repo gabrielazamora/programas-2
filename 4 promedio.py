@@ -3,7 +3,7 @@
 En una universidad cada estudiante cursa 4 materias en el semestre. 
 Desarrolla un programa que pregunte la calificación de cada materia, calcula el promedio de las 4 materias y muestra el resultado.
 El programa debe llamarse Promedio.py
-
+SEGIR LA ENTRADA Y LA SALIDA
 entrada
 1
 2
